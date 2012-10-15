@@ -3,8 +3,12 @@ Ny
 hopp
 hepp
 tipp
+<<<<<<< HEAD
 topp
 flopp
 lhlgghlhl
 Fixat konflikt
 
+=======
+kkk
+>>>>>>> kkk
