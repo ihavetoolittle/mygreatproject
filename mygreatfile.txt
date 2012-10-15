@@ -3,5 +3,3 @@ Ny
 hopp
 hepp
 tipp
-topp
-flopp
